@@ -1,0 +1,10 @@
+# Игнор каталогов tmp
+tmp/
+
+# Игнор файлов с суффиксамии _old, _backup
+*_old
+*_backup
+
+# Игнор файлов Thumbs.db, .DS_Store
+Thumbs.db
+.DS_Store
